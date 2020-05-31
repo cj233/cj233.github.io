@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://cj233.github.io/"/>
   <updated>2020-05-31T08:01:29.969Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://cj233.github.io/</id>
   
   <author>
     <name>CaO</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hexo主题精选</title>
-    <link href="http://yoursite.com/2020/05/24/Hexo%E4%B8%BB%E9%A2%98%E7%B2%BE%E9%80%89/"/>
-    <id>http://yoursite.com/2020/05/24/Hexo%E4%B8%BB%E9%A2%98%E7%B2%BE%E9%80%89/</id>
+    <link href="https://cj233.github.io/2020/05/24/Hexo%E4%B8%BB%E9%A2%98%E7%B2%BE%E9%80%89/"/>
+    <id>https://cj233.github.io/2020/05/24/Hexo%E4%B8%BB%E9%A2%98%E7%B2%BE%E9%80%89/</id>
     <published>2020-05-24T12:40:26.504Z</published>
     <updated>2020-05-31T08:01:29.969Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>GitHub+Hexo搭建博客</title>
-    <link href="http://yoursite.com/2020/05/24/GitHub-Hexo/"/>
-    <id>http://yoursite.com/2020/05/24/GitHub-Hexo/</id>
+    <link href="https://cj233.github.io/2020/05/24/GitHub-Hexo/"/>
+    <id>https://cj233.github.io/2020/05/24/GitHub-Hexo/</id>
     <published>2020-05-24T11:10:24.000Z</published>
     <updated>2020-05-31T06:43:13.847Z</updated>
     
@@ -57,8 +57,8 @@
   
   <entry>
     <title>test</title>
-    <link href="http://yoursite.com/2020/05/24/test/"/>
-    <id>http://yoursite.com/2020/05/24/test/</id>
+    <link href="https://cj233.github.io/2020/05/24/test/"/>
+    <id>https://cj233.github.io/2020/05/24/test/</id>
     <published>2020-05-24T11:08:44.000Z</published>
     <updated>2020-05-24T11:08:44.824Z</updated>
     
@@ -72,8 +72,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/05/24/hello-world/"/>
-    <id>http://yoursite.com/2020/05/24/hello-world/</id>
+    <link href="https://cj233.github.io/2020/05/24/hello-world/"/>
+    <id>https://cj233.github.io/2020/05/24/hello-world/</id>
     <published>2020-05-24T11:03:38.600Z</published>
     <updated>2020-05-24T11:03:38.600Z</updated>
     
